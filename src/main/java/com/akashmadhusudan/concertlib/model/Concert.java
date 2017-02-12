@@ -18,6 +18,8 @@ public class Concert {
     @NotNull
     @Size(min = 2, max = 20)
     private String artistName;
+    @NotNull
+    @Size(min = 2, max = 30)
     private String venue;
     private String dateAndTime;
 
