@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concertlib.iml" filepath="$PROJECT_DIR$/.idea/modules/concertlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concertlib_main.iml" filepath="$PROJECT_DIR$/.idea/modules/concertlib_main.iml" group="concertlib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concertlib_test.iml" filepath="$PROJECT_DIR$/.idea/modules/concertlib_test.iml" group="concertlib" />
+    </modules>
+  </component>
+</project>
